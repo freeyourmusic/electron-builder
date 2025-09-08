@@ -1,5 +1,15 @@
 # app-builder-lib
 
+## 26.0.21
+
+### Patch Changes
+
+- [`5cd812fd`](https://github.com/electron-userland/electron-builder/commit/5cd812fdd1b211bd9dbe0e1c151641f92536bc02) Thanks [@bimusiek](https://github.com/bimusiek)! - feat: Expanding `${arch}` macro properly for `mac.binaries` in case of native node packages for unpacked files for macos `universal` target
+
+- Updated dependencies []:
+  - dmg-builder@26.0.21
+  - electron-builder-squirrel-windows@26.0.21
+
 ## 26.0.20
 
 ### Patch Changes
